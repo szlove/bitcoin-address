@@ -2,6 +2,7 @@
 
 ## Technical background of version 1 Bitcoin addresses
 [https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses](https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses)
+[https://en.bitcoin.it/wiki/File:PubKeyToAddr.png](https://en.bitcoin.it/wiki/File:PubKeyToAddr.png)
 
 - 0 - Having a private ECDSA key
 	- 18e14a7b6a307f426a94f8114701e7c8e774e7f9a47e2c2035db29a206321725
